@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="72" passed="71" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T15:22:57 CST" name="DsAlgoTestNG" finished-at="2022-11-21T15:26:04 CST" duration-ms="187466">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T15:22:57 CST" name="DsAlgoTest" finished-at="2022-11-21T15:26:04 CST" duration-ms="187466">
+      <class name="TestCasesTestNG.Tc_TreeModule">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:21 CST" name="setup" finished-at="2022-11-21T15:25:23 CST" duration-ms="1637" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupTM()[pri:0, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:23 CST" name="setupTM" finished-at="2022-11-21T15:25:23 CST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTM -->
+        <test-method signature="User_Login()[pri:0, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:23 CST" name="User_Login" finished-at="2022-11-21T15:25:26 CST" duration-ms="3558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Login -->
+        <test-method signature="ClickTree()[pri:1, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:26 CST" name="ClickTree" description="Tree Page" finished-at="2022-11-21T15:25:27 CST" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickTree -->
+        <test-method signature="ClickOVT()[pri:2, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:27 CST" name="ClickOVT" description="Overview of Tree Page" finished-at="2022-11-21T15:25:30 CST" duration-ms="2588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOVT -->
+        <test-method signature="TERMClick()[pri:3, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:30 CST" name="TERMClick" description="Terminologies Page" finished-at="2022-11-21T15:25:32 CST" duration-ms="2183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TERMClick -->
+        <test-method signature="TypeOfTree()[pri:4, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:32 CST" name="TypeOfTree" description="Types of Trees Page" finished-at="2022-11-21T15:25:34 CST" duration-ms="2009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TypeOfTree -->
+        <test-method signature="TreeTraversal()[pri:5, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:34 CST" name="TreeTraversal" description="Tree Traversals Page" finished-at="2022-11-21T15:25:36 CST" duration-ms="2119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TreeTraversal -->
+        <test-method signature="TreeIllustration()[pri:6, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:36 CST" name="TreeIllustration" description="Traversals-Illustration Page" finished-at="2022-11-21T15:25:38 CST" duration-ms="1962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TreeIllustration -->
+        <test-method signature="BinaryTree()[pri:7, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:38 CST" name="BinaryTree" description="Binary Trees" finished-at="2022-11-21T15:25:40 CST" duration-ms="2029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BinaryTree -->
+        <test-method signature="TypesOfBinaryTree()[pri:8, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:40 CST" name="TypesOfBinaryTree" description="Types of Binary Trees" finished-at="2022-11-21T15:25:42 CST" duration-ms="2046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TypesOfBinaryTree -->
+        <test-method signature="ImplementationInPython()[pri:9, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:42 CST" name="ImplementationInPython" description="Implementation in Python" finished-at="2022-11-21T15:25:44 CST" duration-ms="1932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementationInPython -->
+        <test-method signature="BinaryTreeTraversals()[pri:10, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:44 CST" name="BinaryTreeTraversals" description="Binary Tree Traversals" finished-at="2022-11-21T15:25:46 CST" duration-ms="1916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BinaryTreeTraversals -->
+        <test-method signature="ImplementationBinaryTree()[pri:11, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:46 CST" name="ImplementationBinaryTree" description="Implementation of Binary Trees" finished-at="2022-11-21T15:25:48 CST" duration-ms="1912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementationBinaryTree -->
+        <test-method signature="ApplicationBinaryTree()[pri:12, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:48 CST" name="ApplicationBinaryTree" description="Applications of Binary trees" finished-at="2022-11-21T15:25:50 CST" duration-ms="1861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationBinaryTree -->
+        <test-method signature="BinarySearchTree()[pri:13, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:50 CST" name="BinarySearchTree" description="Applications of Binary trees" finished-at="2022-11-21T15:25:52 CST" duration-ms="2080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BinarySearchTree -->
+        <test-method signature="ImplementionBST()[pri:14, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:52 CST" name="ImplementionBST" description="Implementation Of BST" finished-at="2022-11-21T15:25:54 CST" duration-ms="2087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementionBST -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.Tc_TreeModule@20b2475a]" started-at="2022-11-21T15:25:54 CST" name="tearDown" finished-at="2022-11-21T15:25:54 CST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.Tc_TreeModule -->
+      <class name="TestCasesTestNG.module1DataStructureTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.module1DataStructureTest@34bde49d]" started-at="2022-11-21T15:23:39 CST" name="setup" finished-at="2022-11-21T15:23:41 CST" duration-ms="1590" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupDS()[pri:0, instance:TestCasesTestNG.module1DataStructureTest@34bde49d]" started-at="2022-11-21T15:23:41 CST" name="setupDS" finished-at="2022-11-21T15:23:41 CST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDS -->
+        <test-method signature="enterToDataStructureModule()[pri:1, instance:TestCasesTestNG.module1DataStructureTest@34bde49d]" started-at="2022-11-21T15:23:41 CST" name="enterToDataStructureModule" finished-at="2022-11-21T15:23:45 CST" duration-ms="4618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterToDataStructureModule -->
+        <test-method signature="clickOnTimeCopmlexityOnDataStructure()[pri:2, instance:TestCasesTestNG.module1DataStructureTest@34bde49d]" started-at="2022-11-21T15:23:45 CST" name="clickOnTimeCopmlexityOnDataStructure" finished-at="2022-11-21T15:23:46 CST" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnTimeCopmlexityOnDataStructure -->
+        <test-method signature="ClickOnTry()[pri:3, instance:TestCasesTestNG.module1DataStructureTest@34bde49d]" started-at="2022-11-21T15:23:46 CST" name="ClickOnTry" finished-at="2022-11-21T15:23:51 CST" duration-ms="4757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnTry -->
+        <test-method signature="PracticeQuestion()[pri:4, instance:TestCasesTestNG.module1DataStructureTest@34bde49d]" started-at="2022-11-21T15:23:51 CST" name="PracticeQuestion" finished-at="2022-11-21T15:23:51 CST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PracticeQuestion -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.module1DataStructureTest@34bde49d]" started-at="2022-11-21T15:23:51 CST" name="tearDown" finished-at="2022-11-21T15:23:51 CST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.module1DataStructureTest -->
+      <class name="TestCasesTestNG.TestHomePage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.TestHomePage@3932c79a]" started-at="2022-11-21T15:23:02 CST" name="setup" finished-at="2022-11-21T15:23:04 CST" duration-ms="1672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup1()[pri:0, instance:TestCasesTestNG.TestHomePage@3932c79a]" started-at="2022-11-21T15:23:04 CST" name="setup1" finished-at="2022-11-21T15:23:04 CST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method signature="HomePAgetest()[pri:1, instance:TestCasesTestNG.TestHomePage@3932c79a]" started-at="2022-11-21T15:23:04 CST" name="HomePAgetest" finished-at="2022-11-21T15:23:04 CST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePAgetest -->
+        <test-method signature="checkLoginWarningMsg()[pri:2, instance:TestCasesTestNG.TestHomePage@3932c79a]" started-at="2022-11-21T15:23:04 CST" name="checkLoginWarningMsg" finished-at="2022-11-21T15:23:05 CST" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginWarningMsg -->
+        <test-method signature="CheckDataStructureMenu()[pri:3, instance:TestCasesTestNG.TestHomePage@3932c79a]" started-at="2022-11-21T15:23:05 CST" name="CheckDataStructureMenu" finished-at="2022-11-21T15:23:06 CST" duration-ms="1227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDataStructureMenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.TestHomePage@3932c79a]" started-at="2022-11-21T15:23:06 CST" name="tearDown" finished-at="2022-11-21T15:23:06 CST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.TestHomePage -->
+      <class name="TestCasesTestNG.LoginTestCase1">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.LoginTestCase1@23f5b5dc]" started-at="2022-11-21T15:23:26 CST" name="setup" finished-at="2022-11-21T15:23:28 CST" duration-ms="1647" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup3()[pri:0, instance:TestCasesTestNG.LoginTestCase1@23f5b5dc]" started-at="2022-11-21T15:23:28 CST" name="setup3" finished-at="2022-11-21T15:23:28 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup3 -->
+        <test-method signature="DDLogin(java.lang.String,java.lang.String)[pri:1, instance:TestCasesTestNG.LoginTestCase1@23f5b5dc]" started-at="2022-11-21T15:23:28 CST" name="DDLogin" data-provider="logindata" finished-at="2022-11-21T15:23:31 CST" duration-ms="2700" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DsAlgo123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[NumpiNinja@23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DDLogin -->
+        <test-method signature="DDLogin(java.lang.String,java.lang.String)[pri:1, instance:TestCasesTestNG.LoginTestCase1@23f5b5dc]" started-at="2022-11-21T15:23:31 CST" name="DDLogin" data-provider="logindata" finished-at="2022-11-21T15:23:33 CST" duration-ms="2686" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DsAlgo123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[NumpiNinja321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DDLogin -->
+        <test-method signature="DDLogin(java.lang.String,java.lang.String)[pri:1, instance:TestCasesTestNG.LoginTestCase1@23f5b5dc]" started-at="2022-11-21T15:23:33 CST" name="DDLogin" data-provider="logindata" finished-at="2022-11-21T15:23:36 CST" duration-ms="2659" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DsAlgo78]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[NumpiNinja@987]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DDLogin -->
+        <test-method signature="sucessLogin()[pri:2, instance:TestCasesTestNG.LoginTestCase1@23f5b5dc]" started-at="2022-11-21T15:23:36 CST" name="sucessLogin" finished-at="2022-11-21T15:23:39 CST" duration-ms="2978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sucessLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.LoginTestCase1@23f5b5dc]" started-at="2022-11-21T15:23:39 CST" name="tearDown" finished-at="2022-11-21T15:23:39 CST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.LoginTestCase1 -->
+      <class name="TestCasesTestNG.registrationTestcase">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.registrationTestcase@782859e]" started-at="2022-11-21T15:23:06 CST" name="setup" finished-at="2022-11-21T15:23:08 CST" duration-ms="1642" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup2()[pri:0, instance:TestCasesTestNG.registrationTestcase@782859e]" started-at="2022-11-21T15:23:08 CST" name="setup2" finished-at="2022-11-21T15:23:08 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="allfieldsempty()[pri:1, instance:TestCasesTestNG.registrationTestcase@782859e]" started-at="2022-11-21T15:23:08 CST" name="allfieldsempty" finished-at="2022-11-21T15:23:14 CST" duration-ms="6604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allfieldsempty -->
+        <test-method signature="passwordFieldBlank()[pri:2, instance:TestCasesTestNG.registrationTestcase@782859e]" started-at="2022-11-21T15:23:14 CST" name="passwordFieldBlank" finished-at="2022-11-21T15:23:19 CST" duration-ms="4206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordFieldBlank -->
+        <test-method signature="DataDrivenRegister(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:TestCasesTestNG.registrationTestcase@782859e]" started-at="2022-11-21T15:23:20 CST" name="DataDrivenRegister" data-provider="regdata" finished-at="2022-11-21T15:23:21 CST" duration-ms="1028" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DsAlgo123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[NumpiNinja@12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[NumpiNinja@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataDrivenRegister -->
+        <test-method signature="DataDrivenRegister(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:TestCasesTestNG.registrationTestcase@782859e]" started-at="2022-11-21T15:23:21 CST" name="DataDrivenRegister" data-provider="regdata" finished-at="2022-11-21T15:23:22 CST" duration-ms="993" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DsAlgo123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[numpi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataDrivenRegister -->
+        <test-method signature="DataDrivenRegister(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:TestCasesTestNG.registrationTestcase@782859e]" started-at="2022-11-21T15:23:22 CST" name="DataDrivenRegister" data-provider="regdata" finished-at="2022-11-21T15:23:23 CST" duration-ms="998" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DsAlgo999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[NumpiNinja@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[NumpiNinja@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataDrivenRegister -->
+        <test-method signature="DataDrivenRegister(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:TestCasesTestNG.registrationTestcase@782859e]" started-at="2022-11-21T15:23:23 CST" name="DataDrivenRegister" data-provider="regdata" finished-at="2022-11-21T15:23:24 CST" duration-ms="1007" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ds]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9/';]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[546]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataDrivenRegister -->
+        <test-method signature="sucessRegister()[pri:4, instance:TestCasesTestNG.registrationTestcase@782859e]" started-at="2022-11-21T15:23:24 CST" name="sucessRegister" finished-at="2022-11-21T15:23:25 CST" duration-ms="995" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at TestCasesTestNG.registrationTestcase.sucessRegister(registrationTestcase.java:137)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sucessRegister -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.registrationTestcase@782859e]" started-at="2022-11-21T15:23:26 CST" name="tearDown" finished-at="2022-11-21T15:23:26 CST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.registrationTestcase -->
+      <class name="TestCasesTestNG.TC_Graph">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.TC_Graph@1be2019a]" started-at="2022-11-21T15:25:54 CST" name="setup" finished-at="2022-11-21T15:25:56 CST" duration-ms="1648" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupgraph()[pri:0, instance:TestCasesTestNG.TC_Graph@1be2019a]" started-at="2022-11-21T15:25:56 CST" name="setupgraph" finished-at="2022-11-21T15:25:56 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupgraph -->
+        <test-method signature="User_Login()[pri:0, instance:TestCasesTestNG.TC_Graph@1be2019a]" started-at="2022-11-21T15:25:56 CST" name="User_Login" finished-at="2022-11-21T15:25:59 CST" duration-ms="3099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Login -->
+        <test-method signature="ClickGraphPage()[pri:1, instance:TestCasesTestNG.TC_Graph@1be2019a]" started-at="2022-11-21T15:25:59 CST" name="ClickGraphPage" description="Graph Page" finished-at="2022-11-21T15:26:00 CST" duration-ms="752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickGraphPage -->
+        <test-method signature="ClickGraph()[pri:2, instance:TestCasesTestNG.TC_Graph@1be2019a]" started-at="2022-11-21T15:26:00 CST" name="ClickGraph" description="Graph" finished-at="2022-11-21T15:26:02 CST" duration-ms="2257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickGraph -->
+        <test-method signature="ClickGraphRep()[pri:3, instance:TestCasesTestNG.TC_Graph@1be2019a]" started-at="2022-11-21T15:26:02 CST" name="ClickGraphRep" description="Graph Representations" finished-at="2022-11-21T15:26:04 CST" duration-ms="1955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickGraphRep -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.TC_Graph@1be2019a]" started-at="2022-11-21T15:26:04 CST" name="tearDown" finished-at="2022-11-21T15:26:04 CST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.TC_Graph -->
+      <class name="TestCasesTestNG.TC_ModuleQueue">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.TC_ModuleQueue@210ab13f]" started-at="2022-11-21T15:25:07 CST" name="setup" finished-at="2022-11-21T15:25:08 CST" duration-ms="1515" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupQU()[pri:0, instance:TestCasesTestNG.TC_ModuleQueue@210ab13f]" started-at="2022-11-21T15:25:08 CST" name="setupQU" finished-at="2022-11-21T15:25:08 CST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupQU -->
+        <test-method signature="User_Login()[pri:0, instance:TestCasesTestNG.TC_ModuleQueue@210ab13f]" started-at="2022-11-21T15:25:08 CST" name="User_Login" finished-at="2022-11-21T15:25:11 CST" duration-ms="3259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Login -->
+        <test-method signature="ClickQueue()[pri:1, instance:TestCasesTestNG.TC_ModuleQueue@210ab13f]" started-at="2022-11-21T15:25:11 CST" name="ClickQueue" description="Queue Page" finished-at="2022-11-21T15:25:12 CST" duration-ms="779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickQueue -->
+        <test-method signature="ClickImplementCollectDeque()[pri:2, instance:TestCasesTestNG.TC_ModuleQueue@210ab13f]" started-at="2022-11-21T15:25:12 CST" name="ClickImplementCollectDeque" description="Implementation using collections.deque" finished-at="2022-11-21T15:25:16 CST" duration-ms="3351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickImplementCollectDeque -->
+        <test-method signature="ClickImplementQueuePython()[pri:2, instance:TestCasesTestNG.TC_ModuleQueue@210ab13f]" started-at="2022-11-21T15:25:16 CST" name="ClickImplementQueuePython" description="Implementation of Queue in Python" finished-at="2022-11-21T15:25:17 CST" duration-ms="1796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickImplementQueuePython -->
+        <test-method signature="ClickImplementArray()[pri:3, instance:TestCasesTestNG.TC_ModuleQueue@210ab13f]" started-at="2022-11-21T15:25:17 CST" name="ClickImplementArray" description="Implementation using array" finished-at="2022-11-21T15:25:19 CST" duration-ms="1842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickImplementArray -->
+        <test-method signature="ClickQueueOperation()[pri:4, instance:TestCasesTestNG.TC_ModuleQueue@210ab13f]" started-at="2022-11-21T15:25:19 CST" name="ClickQueueOperation" description="Queue Operations" finished-at="2022-11-21T15:25:21 CST" duration-ms="1764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickQueueOperation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.TC_ModuleQueue@210ab13f]" started-at="2022-11-21T15:25:21 CST" name="tearDown" finished-at="2022-11-21T15:25:21 CST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.TC_ModuleQueue -->
+      <class name="TestCasesTestNG.Tc_StackModule">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.Tc_StackModule@5db6b9cd]" started-at="2022-11-21T15:24:53 CST" name="setup" finished-at="2022-11-21T15:24:55 CST" duration-ms="1595" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupDS()[pri:0, instance:TestCasesTestNG.Tc_StackModule@5db6b9cd]" started-at="2022-11-21T15:24:55 CST" name="setupDS" finished-at="2022-11-21T15:24:55 CST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDS -->
+        <test-method signature="User_Login()[pri:0, instance:TestCasesTestNG.Tc_StackModule@5db6b9cd]" started-at="2022-11-21T15:24:55 CST" name="User_Login" finished-at="2022-11-21T15:24:58 CST" duration-ms="3709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Login -->
+        <test-method signature="ClickStack()[pri:1, instance:TestCasesTestNG.Tc_StackModule@5db6b9cd]" started-at="2022-11-21T15:24:58 CST" name="ClickStack" description="Stack Page" finished-at="2022-11-21T15:24:59 CST" duration-ms="755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickStack -->
+        <test-method signature="ClickOperInStack()[pri:2, instance:TestCasesTestNG.Tc_StackModule@5db6b9cd]" started-at="2022-11-21T15:24:59 CST" name="ClickOperInStack" description="Operations in Stack" finished-at="2022-11-21T15:25:02 CST" duration-ms="2753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOperInStack -->
+        <test-method signature="ClickImplementation()[pri:3, instance:TestCasesTestNG.Tc_StackModule@5db6b9cd]" started-at="2022-11-21T15:25:02 CST" name="ClickImplementation" description="Implementation" finished-at="2022-11-21T15:25:04 CST" duration-ms="2294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickImplementation -->
+        <test-method signature="ClickApplications()[pri:4, instance:TestCasesTestNG.Tc_StackModule@5db6b9cd]" started-at="2022-11-21T15:25:04 CST" name="ClickApplications" description="Applications" finished-at="2022-11-21T15:25:06 CST" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickApplications -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.Tc_StackModule@5db6b9cd]" started-at="2022-11-21T15:25:06 CST" name="tearDown" finished-at="2022-11-21T15:25:07 CST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.Tc_StackModule -->
+      <class name="TestCasesTestNG.TC_LinkedList">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:34 CST" name="setup" finished-at="2022-11-21T15:24:35 CST" duration-ms="1608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupLL()[pri:0, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:35 CST" name="setupLL" finished-at="2022-11-21T15:24:35 CST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupLL -->
+        <test-method signature="User_Login()[pri:0, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:35 CST" name="User_Login" finished-at="2022-11-21T15:24:39 CST" duration-ms="3121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Login -->
+        <test-method signature="ClickLinkedList()[pri:1, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:39 CST" name="ClickLinkedList" description="Linked List Page" finished-at="2022-11-21T15:24:39 CST" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickLinkedList -->
+        <test-method signature="ClickIntroduction()[pri:2, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:39 CST" name="ClickIntroduction" description="Introduction" finished-at="2022-11-21T15:24:42 CST" duration-ms="2807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickIntroduction -->
+        <test-method signature="ClickCreatingLinkedList()[pri:3, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:42 CST" name="ClickCreatingLinkedList" description="Creating Linked LIst" finished-at="2022-11-21T15:24:44 CST" duration-ms="1387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickCreatingLinkedList -->
+        <test-method signature="ClickTypeLinkedList()[pri:4, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:44 CST" name="ClickTypeLinkedList" description="Types of Linked List" finished-at="2022-11-21T15:24:46 CST" duration-ms="1972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickTypeLinkedList -->
+        <test-method signature="ClickImpLinkedListPython()[pri:5, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:46 CST" name="ClickImpLinkedListPython" description="Implement Linked List in Python" finished-at="2022-11-21T15:24:47 CST" duration-ms="1875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickImpLinkedListPython -->
+        <test-method signature="ClickTraversal()[pri:6, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:47 CST" name="ClickTraversal" description="Traversal" finished-at="2022-11-21T15:24:49 CST" duration-ms="1917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickTraversal -->
+        <test-method signature="ClickInsertion()[pri:7, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:49 CST" name="ClickInsertion" description="Insertion" finished-at="2022-11-21T15:24:51 CST" duration-ms="1405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickInsertion -->
+        <test-method signature="ClickDeletion()[pri:8, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:51 CST" name="ClickDeletion" description="Deletion" finished-at="2022-11-21T15:24:53 CST" duration-ms="1898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickDeletion -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.TC_LinkedList@6f43c82]" started-at="2022-11-21T15:24:53 CST" name="tearDown" finished-at="2022-11-21T15:24:53 CST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.TC_LinkedList -->
+      <class name="TestCasesTestNG.Module2Array_Test">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:23:51 CST" name="setup" finished-at="2022-11-21T15:23:53 CST" duration-ms="1583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupDS()[pri:0, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:23:53 CST" name="setupDS" finished-at="2022-11-21T15:23:53 CST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDS -->
+        <test-method signature="EnterArraysInPython()[pri:1, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:23:53 CST" name="EnterArraysInPython" finished-at="2022-11-21T15:23:56 CST" duration-ms="3288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterArraysInPython -->
+        <test-method signature="enterOnArraysinPython()[pri:2, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:23:56 CST" name="enterOnArraysinPython" finished-at="2022-11-21T15:23:57 CST" duration-ms="922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterOnArraysinPython -->
+        <test-method signature="tryArraysinPython()[pri:3, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:23:57 CST" name="tryArraysinPython" finished-at="2022-11-21T15:24:03 CST" duration-ms="5903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryArraysinPython -->
+        <test-method signature="enterArraysUsingList()[pri:4, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:03 CST" name="enterArraysUsingList" finished-at="2022-11-21T15:24:04 CST" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterArraysUsingList -->
+        <test-method signature="tryforArraysUsingList()[pri:5, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:04 CST" name="tryforArraysUsingList" finished-at="2022-11-21T15:24:08 CST" duration-ms="4691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryforArraysUsingList -->
+        <test-method signature="enteringToBasicOperationList()[pri:6, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:08 CST" name="enteringToBasicOperationList" finished-at="2022-11-21T15:24:09 CST" duration-ms="777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteringToBasicOperationList -->
+        <test-method signature="tryPythonCodeinOperationBasic()[pri:7, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:09 CST" name="tryPythonCodeinOperationBasic" finished-at="2022-11-21T15:24:14 CST" duration-ms="4714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryPythonCodeinOperationBasic -->
+        <test-method signature="entereningToApplicationOfArray()[pri:8, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:14 CST" name="entereningToApplicationOfArray" finished-at="2022-11-21T15:24:14 CST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entereningToApplicationOfArray -->
+        <test-method signature="tryPythonCodeInApplicationOfArray()[pri:9, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:14 CST" name="tryPythonCodeInApplicationOfArray" finished-at="2022-11-21T15:24:19 CST" duration-ms="4675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryPythonCodeInApplicationOfArray -->
+        <test-method signature="tryPracticeQuestionForArray()[pri:10, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:19 CST" name="tryPracticeQuestionForArray" finished-at="2022-11-21T15:24:19 CST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryPracticeQuestionForArray -->
+        <test-method signature="tryQuestin1()[pri:11, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:19 CST" name="tryQuestin1" finished-at="2022-11-21T15:24:23 CST" duration-ms="3551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryQuestin1 -->
+        <test-method signature="tryQuestin2()[pri:12, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:23 CST" name="tryQuestin2" finished-at="2022-11-21T15:24:26 CST" duration-ms="3534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryQuestin2 -->
+        <test-method signature="tryQuestin3()[pri:13, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:26 CST" name="tryQuestin3" finished-at="2022-11-21T15:24:30 CST" duration-ms="3587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryQuestin3 -->
+        <test-method signature="tryQuestin4()[pri:14, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:30 CST" name="tryQuestin4" finished-at="2022-11-21T15:24:34 CST" duration-ms="3537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryQuestin4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.Module2Array_Test@821330f]" started-at="2022-11-21T15:24:34 CST" name="tearDown" finished-at="2022-11-21T15:24:34 CST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.Module2Array_Test -->
+      <class name="TestCasesTestNG.TestPortalPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCasesTestNG.TestPortalPage@790da477]" started-at="2022-11-21T15:22:57 CST" name="setup" finished-at="2022-11-21T15:23:02 CST" duration-ms="4634" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestgetStartedPage()[pri:1, instance:TestCasesTestNG.TestPortalPage@790da477]" started-at="2022-11-21T15:23:02 CST" name="TestgetStartedPage" description="Verifying Title, paragraph and GetStarted button on very 1stpage" finished-at="2022-11-21T15:23:02 CST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestgetStartedPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCasesTestNG.TestPortalPage@790da477]" started-at="2022-11-21T15:23:02 CST" name="tearDown" finished-at="2022-11-21T15:23:02 CST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesTestNG.TestPortalPage -->
+    </test> <!-- DsAlgoTest -->
+  </suite> <!-- DsAlgoTestNG -->
+</testng-results>

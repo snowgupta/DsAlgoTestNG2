@@ -1,0 +1,984 @@
+[INFO ] 2022-11-05 23:51:44.826 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-05 23:54:44.794 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-06 00:05:30.657 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-06 15:31:28.214 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-06 21:13:55.250 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-06 21:13:55.933 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-06 21:13:57.182 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-06 21:13:57.237 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-06 21:24:07.361 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-06 21:24:07.975 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-06 21:24:09.103 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-06 21:24:09.130 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-06 21:36:58.382 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-06 21:36:59.018 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-06 21:37:00.304 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-06 21:37:00.355 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-06 21:50:14.303 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-06 21:50:14.932 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-06 21:50:16.274 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-06 21:50:16.323 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-06 22:03:21.263 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-06 22:03:21.877 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-06 22:03:23.132 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-06 22:03:23.180 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-06 22:04:25.735 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-06 22:04:26.385 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-06 22:04:27.574 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-06 22:04:27.616 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-06 22:08:25.963 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-06 22:08:26.600 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-06 22:08:27.691 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-06 22:08:27.743 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-06 22:10:01.013 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-06 22:10:01.720 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-06 22:10:03.017 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-06 22:10:03.074 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-06 22:10:45.719 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-06 22:10:46.379 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-06 22:10:47.605 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-06 22:10:47.659 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:11:35.758 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:11:36.336 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:11:37.765 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:11:37.787 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:20:00.639 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:20:01.212 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:20:02.418 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:20:02.441 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:21:19.637 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:21:20.220 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:21:21.406 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:21:21.427 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:23:13.042 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:23:13.643 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:23:15.015 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:23:15.039 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:23:46.182 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:23:46.768 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:23:47.855 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:23:47.874 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:24:22.333 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:24:22.928 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:24:23.974 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:24:23.997 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:28:28.362 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:28:29.019 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:28:30.350 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:28:30.387 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:29:15.146 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:29:15.812 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:29:17.007 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:29:17.420 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:37:07.228 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:37:07.936 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:37:09.263 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:37:09.607 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:40:16.015 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:40:16.635 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:40:17.843 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:40:18.284 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 15:45:23.418 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 15:45:24.020 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 15:45:25.232 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 15:45:25.689 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 20:43:34.467 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 20:43:35.046 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 20:43:36.207 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 20:43:36.453 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 20:47:09.685 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 20:47:10.279 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 20:47:11.355 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 20:47:11.591 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 20:55:00.492 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 20:55:01.073 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 20:55:02.082 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 20:55:02.322 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 20:56:07.002 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 20:56:07.573 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 20:56:08.876 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 20:56:09.139 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 20:58:47.441 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 20:58:48.032 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 20:58:49.254 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 20:58:49.499 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 21:11:51.561 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 21:11:52.222 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 21:11:53.793 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 21:11:54.158 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 21:11:55.524 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-07 21:12:02.235 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-07 21:12:03.207 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-07 21:12:08.403 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-07 21:17:01.695 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 21:17:02.320 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 21:17:03.629 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 21:17:03.983 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 21:17:05.332 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-07 21:17:10.949 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-07 21:17:11.860 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-07 21:17:17.096 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-07 21:35:46.943 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 21:35:47.597 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 21:35:48.820 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 21:35:49.185 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 21:35:50.410 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-07 21:35:58.536 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-07 21:35:59.494 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-07 21:36:04.684 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-07 21:36:05.565 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-07 21:36:05.589 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-07 21:36:10.845 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-07 21:46:34.143 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 21:46:34.811 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 21:46:36.016 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 21:46:36.372 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 21:46:37.501 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-07 21:46:43.100 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-07 21:46:44.024 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-07 21:46:49.288 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-07 21:46:50.118 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-07 21:46:50.146 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-07 21:46:55.197 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-07 21:47:47.780 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 21:47:48.411 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 21:47:49.563 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 21:47:50.023 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 21:47:51.104 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-07 21:47:56.702 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-07 21:47:57.602 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-07 21:48:02.846 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-07 21:48:04.066 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-07 21:48:04.093 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-07 21:48:09.178 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-07 21:48:14.726 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-07 21:49:28.500 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 21:49:29.141 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 21:49:30.315 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 21:49:30.689 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 21:49:31.924 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-07 21:49:37.528 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-07 21:49:38.377 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-07 21:49:43.668 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-07 21:49:44.499 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-07 21:49:44.522 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-07 21:49:49.565 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-07 21:49:55.156 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-07 21:51:32.999 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 21:51:33.646 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 21:51:34.828 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 21:51:35.221 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 21:51:36.468 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-07 21:51:42.052 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-07 21:51:42.929 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-07 21:51:47.980 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-07 21:51:48.836 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-07 21:51:48.859 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-07 21:51:53.871 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-07 21:51:59.336 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-07 21:58:29.617 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 21:58:30.250 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 21:58:31.405 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 21:58:31.746 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 21:58:32.928 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-07 21:58:38.473 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-07 21:58:39.358 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-07 21:58:44.413 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-07 21:58:45.280 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-07 21:58:45.307 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-07 21:58:50.332 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-07 21:58:55.876 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-07 22:04:05.517 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-07 22:04:06.129 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-07 22:04:07.408 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-07 22:04:07.752 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-07 22:04:09.019 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-07 22:04:14.660 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-07 22:04:15.560 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-07 22:04:20.876 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-07 22:04:21.759 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-07 22:04:21.784 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-07 22:04:26.863 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-07 22:04:32.278 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-07 22:18:07.757 [main] Loggerclass - Username is given
+[INFO ] 2022-11-07 22:18:08.388 [main] Loggerclass - Password is given
+[INFO ] 2022-11-07 22:18:09.619 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-07 22:18:09.636 [main] Loggerclass - You are logged in
+[INFO ] 2022-11-07 22:21:13.065 [main] Loggerclass - Username is given
+[INFO ] 2022-11-07 22:21:13.678 [main] Loggerclass - Password is given
+[INFO ] 2022-11-07 22:21:14.911 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-07 22:21:14.925 [main] Loggerclass - You are logged in
+[INFO ] 2022-11-07 22:21:16.973 [main] Loggerclass - Username is given
+[INFO ] 2022-11-07 22:21:17.610 [main] Loggerclass - Password is given
+[INFO ] 2022-11-07 22:21:18.723 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-07 22:26:59.576 [main] Loggerclass - Username is given
+[INFO ] 2022-11-07 22:27:00.208 [main] Loggerclass - Password is given
+[INFO ] 2022-11-07 22:27:01.370 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-07 22:27:01.383 [main] Loggerclass - You are logged in
+[INFO ] 2022-11-07 22:27:03.561 [main] Loggerclass - Username is given
+[INFO ] 2022-11-07 22:27:04.192 [main] Loggerclass - Password is given
+[INFO ] 2022-11-07 22:27:05.141 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-07 22:31:01.938 [main] Loggerclass - Username is given
+[INFO ] 2022-11-07 22:31:02.535 [main] Loggerclass - Password is given
+[INFO ] 2022-11-07 22:31:03.765 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-07 22:31:03.777 [main] Loggerclass - You are logged in
+[INFO ] 2022-11-07 22:31:05.880 [main] Loggerclass - Username is given
+[INFO ] 2022-11-07 22:31:06.499 [main] Loggerclass - Password is given
+[INFO ] 2022-11-07 22:31:07.417 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-07 22:31:42.367 [main] Loggerclass - Username is given
+[INFO ] 2022-11-07 22:31:43.002 [main] Loggerclass - Password is given
+[INFO ] 2022-11-07 22:31:44.241 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-07 22:31:44.253 [main] Loggerclass - You are logged in
+[INFO ] 2022-11-07 22:31:46.274 [main] Loggerclass - Username is given
+[INFO ] 2022-11-07 22:31:46.908 [main] Loggerclass - Password is given
+[INFO ] 2022-11-07 22:31:47.858 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-08 15:15:11.309 [main] Loggerclass - Username is given
+[INFO ] 2022-11-08 15:15:11.881 [main] Loggerclass - Password is given
+[INFO ] 2022-11-08 15:15:13.048 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-08 15:15:13.062 [main] Loggerclass - You are logged in
+[INFO ] 2022-11-08 15:15:15.399 [main] Loggerclass - Username is given
+[INFO ] 2022-11-08 15:15:15.973 [main] Loggerclass - Password is given
+[INFO ] 2022-11-08 15:15:16.883 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-08 15:15:47.367 [main] Loggerclass - Username is given
+[INFO ] 2022-11-08 15:15:47.961 [main] Loggerclass - Password is given
+[INFO ] 2022-11-08 15:15:49.257 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-08 15:15:49.267 [main] Loggerclass - You are logged in
+[INFO ] 2022-11-08 15:15:50.893 [main] Loggerclass - Username is given
+[INFO ] 2022-11-08 15:15:51.462 [main] Loggerclass - Password is given
+[INFO ] 2022-11-08 15:15:52.290 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-08 15:21:36.840 [main] Loggerclass - Username is given
+[INFO ] 2022-11-08 15:21:37.469 [main] Loggerclass - Password is given
+[INFO ] 2022-11-08 15:21:38.893 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-08 15:21:38.913 [main] Loggerclass - You are logged in
+[INFO ] 2022-11-08 15:21:40.912 [main] Loggerclass - Username is given
+[INFO ] 2022-11-08 15:21:41.554 [main] Loggerclass - Password is given
+[INFO ] 2022-11-08 15:21:42.483 [main] Loggerclass - Clicked login button
+[INFO ] 2022-11-08 15:25:04.194 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 15:25:04.844 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 15:25:06.150 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 15:25:06.523 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 15:25:07.684 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 15:25:14.469 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 15:25:15.418 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 15:25:20.671 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 15:25:21.530 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 15:25:21.561 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 15:25:26.700 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 15:25:32.458 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 15:44:48.566 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 15:44:49.210 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 15:44:50.802 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 15:44:51.182 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 15:44:52.534 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 15:44:58.204 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 15:44:59.097 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 15:45:04.268 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 15:45:05.109 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 15:45:05.131 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 15:45:10.192 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 15:45:15.666 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 15:46:37.908 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 15:46:38.534 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 15:46:39.773 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 15:46:40.114 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 15:46:41.317 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 15:46:46.937 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 15:46:47.808 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 15:46:53.130 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 15:46:53.972 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 15:46:54.009 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 15:46:59.055 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 15:47:04.571 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 15:48:22.730 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 15:48:23.341 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 15:48:24.578 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 15:48:24.894 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 15:48:26.147 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 15:48:31.708 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 15:48:32.567 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 15:48:37.846 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 15:48:38.867 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 15:48:38.891 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 15:48:43.959 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 15:48:49.604 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 15:52:44.561 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 15:52:45.175 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 15:52:46.326 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 15:52:46.668 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 15:52:47.773 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 15:52:53.312 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 15:52:54.190 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 15:52:59.433 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 15:53:00.268 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 15:53:00.296 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 15:53:05.348 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 15:53:11.243 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 15:58:18.032 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 15:58:18.686 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 15:58:19.879 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 15:58:20.540 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 15:58:22.050 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 15:58:32.695 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 15:58:33.738 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 15:58:38.936 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 15:58:39.814 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 15:58:39.839 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 15:58:45.182 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 15:58:50.957 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 16:02:09.544 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 16:02:10.137 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 16:02:11.441 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 16:02:11.887 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 16:02:13.084 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 16:02:18.605 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 16:02:19.521 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 16:02:24.756 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 16:02:25.622 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 16:02:25.645 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 16:02:30.673 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 16:02:36.146 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 16:04:35.795 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 16:04:36.398 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 16:04:37.531 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 16:04:37.891 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 16:04:39.104 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 16:04:44.764 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 16:04:45.661 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 16:04:50.958 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 16:04:51.789 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 16:04:51.816 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 16:04:56.908 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 16:05:02.411 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 16:08:20.065 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 16:08:20.703 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 16:08:22.076 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 16:08:22.434 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 16:08:23.574 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 16:08:29.119 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 16:08:29.973 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 16:08:35.190 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 16:08:36.009 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 16:08:36.036 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 16:08:41.128 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 16:08:46.592 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 16:10:52.355 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 16:10:52.951 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 16:10:54.259 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 16:10:54.597 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 16:10:55.755 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 16:11:01.396 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 16:11:02.236 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 16:11:07.301 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 16:11:08.127 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 16:11:08.154 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 16:11:13.174 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 16:11:18.507 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 16:21:13.783 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 16:21:14.418 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 16:21:15.666 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 16:21:16.026 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 16:21:17.226 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 16:21:22.733 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 16:21:23.607 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 16:21:28.679 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 16:21:29.536 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 16:21:29.573 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 16:21:34.601 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 16:21:40.141 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 16:31:06.661 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 16:31:07.287 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 16:31:08.733 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 16:31:09.063 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 16:31:10.264 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 16:31:15.979 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 16:31:16.847 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 16:31:22.050 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 16:31:22.918 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 16:31:22.946 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 16:31:28.087 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 16:31:33.552 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 16:40:16.897 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 16:40:17.565 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 16:40:18.886 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 16:40:19.281 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 16:40:20.510 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 16:40:26.053 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 16:40:26.904 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 16:40:32.159 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 16:40:32.986 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 16:40:33.011 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 16:40:37.998 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 16:40:43.423 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 16:54:05.201 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 16:54:05.856 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 16:54:07.174 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 16:54:07.520 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 16:54:08.787 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 16:54:14.773 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 16:54:15.776 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 16:54:20.838 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 16:54:21.833 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 16:54:21.872 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 16:54:26.999 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 16:54:32.514 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 16:55:50.923 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 16:55:51.591 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 16:55:52.938 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 16:55:53.283 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 16:55:54.467 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 16:56:00.213 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 16:56:01.134 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 16:56:06.523 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 16:56:07.427 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 16:56:07.448 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 16:56:12.662 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 16:56:18.044 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 16:59:41.575 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 16:59:42.219 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 16:59:43.498 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 16:59:43.912 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 16:59:45.118 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 16:59:50.799 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 16:59:51.758 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 16:59:57.041 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 16:59:57.932 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 16:59:57.957 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 17:00:03.183 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 17:00:08.694 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 17:03:30.495 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 17:03:31.128 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 17:03:32.490 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 17:03:32.921 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 17:03:34.217 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 17:03:40.134 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 17:03:41.048 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 17:03:46.270 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 17:03:47.192 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 17:03:47.221 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 17:03:52.500 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 17:03:58.015 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 17:08:41.470 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 17:08:42.071 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 17:08:43.318 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 17:08:43.758 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 17:08:44.985 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 17:08:50.667 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 17:08:51.552 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 17:08:56.766 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 17:08:57.617 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 17:08:57.639 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 17:09:02.876 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 17:09:08.747 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 17:14:29.010 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 17:14:29.656 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 17:14:30.886 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 17:14:31.295 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 17:14:32.617 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 17:14:38.423 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 17:14:39.304 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 17:14:44.593 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 17:14:45.532 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 17:14:45.557 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 17:14:50.914 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 17:14:56.581 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 17:16:47.885 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 17:16:48.545 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 17:16:49.822 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 17:16:50.291 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 17:16:51.539 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 17:16:57.563 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 17:16:58.506 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 17:17:03.794 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 17:17:04.647 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 17:17:04.678 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 17:17:10.124 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 17:17:15.914 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 19:52:25.228 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 19:52:25.804 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 19:52:27.298 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 19:52:27.553 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 19:52:28.530 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 19:52:33.738 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 19:52:34.553 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 19:52:39.479 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 19:52:40.281 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 19:52:40.302 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 19:52:45.184 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 19:52:50.161 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 19:54:25.230 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 19:54:25.809 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 19:54:27.049 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 19:54:27.438 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 19:54:28.547 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 19:54:33.733 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 19:54:34.529 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 19:54:39.490 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 19:54:40.264 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 19:54:40.285 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 19:54:45.115 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 19:54:50.401 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 20:00:47.825 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 20:00:48.407 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 20:00:49.976 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 20:00:50.297 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 20:00:51.263 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 20:00:56.484 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 20:00:57.287 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 20:01:02.266 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 20:01:03.097 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 20:01:03.114 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 20:01:07.859 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 20:01:13.078 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 20:40:29.652 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-08 20:41:15.793 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 20:41:16.392 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 20:41:17.661 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 20:41:17.907 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 20:41:18.953 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 20:41:24.225 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 20:41:25.006 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 20:41:29.907 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 20:41:30.743 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 20:41:30.761 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 20:41:35.637 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 20:41:40.807 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 20:53:38.031 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-08 20:54:26.192 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 20:54:26.803 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 20:54:28.021 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 20:54:28.251 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 20:54:29.147 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 20:54:34.342 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 20:54:35.187 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 20:54:40.071 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 20:54:40.850 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 20:54:40.868 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 20:54:45.597 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 20:54:50.757 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-08 22:04:01.339 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-08 22:04:51.867 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-08 22:04:52.473 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-08 22:04:53.635 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-08 22:04:54.096 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-08 22:04:55.128 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-08 22:05:00.654 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-08 22:05:01.593 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-08 22:05:06.754 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-08 22:05:07.643 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-08 22:05:07.659 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-08 22:05:12.691 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-08 22:05:18.306 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-09 15:16:35.398 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-09 15:17:16.405 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-09 15:17:16.997 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-09 15:17:18.066 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-09 15:17:18.328 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-09 15:17:19.323 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-09 15:17:24.624 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-09 15:17:25.397 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-09 15:17:30.325 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-09 15:17:31.102 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-09 15:17:31.118 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-09 15:17:36.078 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-09 15:17:41.256 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-09 15:18:45.094 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-09 15:19:27.201 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-09 15:19:27.798 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-09 15:19:28.873 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-09 15:19:29.151 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-09 15:19:30.000 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-09 15:19:35.376 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-09 15:19:36.210 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-09 15:19:41.094 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-09 15:19:41.902 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-09 15:19:41.913 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-09 15:19:46.753 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-09 15:19:51.891 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-10 17:11:58.347 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-10 17:12:36.786 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-10 17:12:37.362 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-10 17:12:38.905 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-10 17:12:39.181 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-10 17:12:40.205 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-10 17:12:45.320 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-10 17:12:46.097 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-10 17:12:50.818 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-10 17:12:51.630 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-10 17:12:51.644 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-10 17:12:56.442 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-10 17:13:01.391 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-12 14:40:02.318 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-12 14:40:44.466 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-12 14:40:45.074 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-12 14:40:46.209 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-12 14:40:46.501 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-12 14:40:47.525 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-12 14:40:52.895 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-12 14:40:53.723 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-12 14:40:58.689 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-12 14:40:59.460 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-12 14:40:59.478 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-12 14:41:04.415 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-12 14:41:09.603 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-16 16:18:34.450 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-16 16:19:13.896 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-16 16:19:14.488 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-16 16:19:15.542 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-16 16:19:15.861 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-16 16:19:16.807 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-16 16:19:21.889 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-16 16:19:22.685 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-16 16:19:27.394 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-16 16:19:28.148 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-16 16:19:28.165 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-16 16:19:32.950 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-16 16:19:37.876 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-16 16:25:27.306 [main] Loggerclass - You are on Graph Representations page
+[INFO ] 2022-11-16 16:25:29.390 [main] Loggerclass - Graph Representations verified successfully
+[INFO ] 2022-11-16 16:27:10.985 [main] Loggerclass - You are on the Graph page
+[INFO ] 2022-11-16 16:27:11.261 [main] Loggerclass - You are on Graph page
+[INFO ] 2022-11-16 16:27:12.192 [main] Loggerclass - Graph verified successfully
+[INFO ] 2022-11-16 16:27:12.657 [main] Loggerclass - You are on Graph Representations page
+[INFO ] 2022-11-16 16:27:13.120 [main] Loggerclass - Graph Representations verified successfully
+[INFO ] 2022-11-16 18:13:36.331 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 18:14:48.569 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 18:14:48.932 [main] Loggerclass - You are on the Linked List page
+[INFO ] 2022-11-16 18:14:49.269 [main] Loggerclass - You are on Introduction page
+[INFO ] 2022-11-16 18:14:50.282 [main] Loggerclass - Introduction page verified successfully
+[INFO ] 2022-11-16 18:14:50.722 [main] Loggerclass - You are on Creating Linked LIst page
+[INFO ] 2022-11-16 18:14:51.335 [main] Loggerclass - Creating Linked LIst page verified successfully
+[INFO ] 2022-11-16 18:14:51.941 [main] Loggerclass - You are on Types of Linked List page
+[INFO ] 2022-11-16 18:14:52.565 [main] Loggerclass - Types of Linked List page verified successfully
+[INFO ] 2022-11-16 18:14:53.200 [main] Loggerclass - You are on Implement Linked List in Python page
+[INFO ] 2022-11-16 18:14:53.799 [main] Loggerclass - Implement Linked List in Python page verified successfully
+[INFO ] 2022-11-16 18:14:54.289 [main] Loggerclass - You are on Traversal page
+[INFO ] 2022-11-16 18:14:54.977 [main] Loggerclass - Traversal page verified successfully
+[INFO ] 2022-11-16 18:14:55.651 [main] Loggerclass - You are on Insertion page
+[INFO ] 2022-11-16 18:14:56.235 [main] Loggerclass - Insertion page verified successfully
+[INFO ] 2022-11-16 18:14:56.723 [main] Loggerclass - You are on Deletion page
+[INFO ] 2022-11-16 18:14:57.305 [main] Loggerclass - Deletion page verified successfully
+[INFO ] 2022-11-16 18:17:43.977 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 18:17:44.358 [main] Loggerclass - You are on the Linked List page
+[INFO ] 2022-11-16 18:17:44.738 [main] Loggerclass - You are on Introduction page
+[INFO ] 2022-11-16 18:17:46.235 [main] Loggerclass - Introduction page verified successfully
+[INFO ] 2022-11-16 18:17:46.717 [main] Loggerclass - You are on Creating Linked LIst page
+[INFO ] 2022-11-16 18:17:47.827 [main] Loggerclass - Creating Linked LIst page verified successfully
+[INFO ] 2022-11-16 18:17:48.405 [main] Loggerclass - You are on Types of Linked List page
+[INFO ] 2022-11-16 18:17:49.789 [main] Loggerclass - Types of Linked List page verified successfully
+[INFO ] 2022-11-16 18:17:51.075 [main] Loggerclass - You are on Implement Linked List in Python page
+[INFO ] 2022-11-16 18:17:52.448 [main] Loggerclass - Implement Linked List in Python page verified successfully
+[INFO ] 2022-11-16 18:17:53.692 [main] Loggerclass - You are on Traversal page
+[INFO ] 2022-11-16 18:17:54.802 [main] Loggerclass - Traversal page verified successfully
+[INFO ] 2022-11-16 18:17:55.579 [main] Loggerclass - You are on Insertion page
+[INFO ] 2022-11-16 18:17:56.764 [main] Loggerclass - Insertion page verified successfully
+[INFO ] 2022-11-16 18:17:57.832 [main] Loggerclass - You are on Deletion page
+[INFO ] 2022-11-16 18:17:59.351 [main] Loggerclass - Deletion page verified successfully
+[INFO ] 2022-11-16 18:31:36.497 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 18:31:36.773 [main] Loggerclass - You are on the Queue page
+[INFO ] 2022-11-16 18:31:37.043 [main] Loggerclass - You are on Implementation using collections.deque page
+[INFO ] 2022-11-16 18:31:38.012 [main] Loggerclass - Implementation using collections.deque page verified successfully
+[INFO ] 2022-11-16 18:31:38.436 [main] Loggerclass - You are on Implementation of Queue in Python page
+[INFO ] 2022-11-16 18:31:39.040 [main] Loggerclass - Implementation of Queue in Python page verified successfully
+[INFO ] 2022-11-16 18:31:39.457 [main] Loggerclass - You are on Implementation using array page
+[INFO ] 2022-11-16 18:31:40.041 [main] Loggerclass - Implementation using array page verified successfully
+[INFO ] 2022-11-16 18:31:40.532 [main] Loggerclass - You are on Queue Operations page
+[INFO ] 2022-11-16 18:31:41.190 [main] Loggerclass - Queue Operations page verified successfully
+[INFO ] 2022-11-16 18:32:54.764 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 18:32:55.056 [main] Loggerclass - You are on the Queue page
+[INFO ] 2022-11-16 18:32:55.357 [main] Loggerclass - You are on Implementation using collections.deque page
+[INFO ] 2022-11-16 18:32:56.354 [main] Loggerclass - Implementation using collections.deque page verified successfully
+[INFO ] 2022-11-16 18:32:56.769 [main] Loggerclass - You are on Implementation of Queue in Python page
+[INFO ] 2022-11-16 18:32:57.395 [main] Loggerclass - Implementation of Queue in Python page verified successfully
+[INFO ] 2022-11-16 18:32:57.840 [main] Loggerclass - You are on Implementation using array page
+[INFO ] 2022-11-16 18:32:58.501 [main] Loggerclass - Implementation using array page verified successfully
+[INFO ] 2022-11-16 18:32:58.926 [main] Loggerclass - You are on Queue Operations page
+[INFO ] 2022-11-16 18:32:59.510 [main] Loggerclass - Queue Operations page verified successfully
+[INFO ] 2022-11-16 18:44:37.345 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 18:44:37.696 [main] Loggerclass - You are on the Tree page
+[INFO ] 2022-11-16 18:44:38.015 [main] Loggerclass - You are on Overview of Trees page
+[INFO ] 2022-11-16 18:44:39.097 [main] Loggerclass - Overview of Trees page verified successfully
+[INFO ] 2022-11-16 18:44:39.654 [main] Loggerclass - You are on Terminologies page
+[INFO ] 2022-11-16 18:44:40.286 [main] Loggerclass - Terminologies page verified successfully
+[INFO ] 2022-11-16 18:44:40.733 [main] Loggerclass - You are on Types of Trees page
+[INFO ] 2022-11-16 18:44:41.299 [main] Loggerclass - Types of Trees page verified successfully
+[INFO ] 2022-11-16 18:44:41.908 [main] Loggerclass - You are on Tree Traversals page
+[INFO ] 2022-11-16 18:44:42.497 [main] Loggerclass - Tree Traversals page verified successfully
+[INFO ] 2022-11-16 18:44:43.033 [main] Loggerclass - You are on Traversals-Illustration page
+[INFO ] 2022-11-16 18:44:43.619 [main] Loggerclass - Traversals-Illustration page verified successfully
+[INFO ] 2022-11-16 18:44:44.082 [main] Loggerclass - You are on Binary Trees page
+[INFO ] 2022-11-16 18:44:44.672 [main] Loggerclass - Binary Trees page verified successfully
+[INFO ] 2022-11-16 18:44:45.287 [main] Loggerclass - You are on Types of Binary Trees page
+[INFO ] 2022-11-16 18:44:45.854 [main] Loggerclass - Types of Binary Trees page verified successfully
+[INFO ] 2022-11-16 18:44:46.316 [main] Loggerclass - You are on Implementation in Python page
+[INFO ] 2022-11-16 18:44:47.059 [main] Loggerclass - Implementation in Python page verified successfully
+[INFO ] 2022-11-16 18:44:47.606 [main] Loggerclass - You are on Binary Tree Traversals page
+[INFO ] 2022-11-16 18:44:48.168 [main] Loggerclass - Binary Tree Traversals page verified successfully
+[INFO ] 2022-11-16 18:44:48.648 [main] Loggerclass - You are on Implementation of Binary Trees page
+[INFO ] 2022-11-16 18:44:49.240 [main] Loggerclass - Implementation of Binary Trees page verified successfully
+[INFO ] 2022-11-16 18:44:49.770 [main] Loggerclass - You are on Applications of Binary trees page
+[INFO ] 2022-11-16 18:44:50.407 [main] Loggerclass - Applications of Binary trees page verified successfully
+[INFO ] 2022-11-16 18:44:51.114 [main] Loggerclass - You are on Binary Search Trees page
+[INFO ] 2022-11-16 18:44:51.743 [main] Loggerclass - Binary Search Trees page verified successfully
+[INFO ] 2022-11-16 18:44:52.210 [main] Loggerclass - You are on Implementation Of BST page
+[INFO ] 2022-11-16 18:44:52.788 [main] Loggerclass - Implementation Of BST page verified successfully
+[INFO ] 2022-11-16 18:44:53.146 [main] Loggerclass - I am logging off from NumpyNinja
+[INFO ] 2022-11-16 18:50:43.537 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 18:51:45.290 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 18:51:45.673 [main] Loggerclass - You are on the Stack page
+[INFO ] 2022-11-16 18:51:46.107 [main] Loggerclass - You are on Operations in Stack page
+[INFO ] 2022-11-16 18:51:46.995 [main] Loggerclass - Operations in Stack page verified successfully
+[INFO ] 2022-11-16 18:51:47.431 [main] Loggerclass - You are on Implementation page
+[INFO ] 2022-11-16 18:51:48.012 [main] Loggerclass - Implementation page verified successfully
+[INFO ] 2022-11-16 18:51:48.459 [main] Loggerclass - You are on Applications page
+[INFO ] 2022-11-16 18:51:49.062 [main] Loggerclass - Applications page verified successfully
+[INFO ] 2022-11-16 18:53:53.548 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 18:53:54.393 [main] Loggerclass - You are on the Stack page
+[INFO ] 2022-11-16 18:53:55.284 [main] Loggerclass - You are on Operations in Stack page
+[INFO ] 2022-11-16 18:53:57.289 [main] Loggerclass - Operations in Stack page verified successfully
+[INFO ] 2022-11-16 18:53:58.272 [main] Loggerclass - You are on Implementation page
+[INFO ] 2022-11-16 18:53:59.869 [main] Loggerclass - Implementation page verified successfully
+[INFO ] 2022-11-16 18:54:00.894 [main] Loggerclass - You are on Applications page
+[INFO ] 2022-11-16 18:54:02.497 [main] Loggerclass - Applications page verified successfully
+[INFO ] 2022-11-16 20:35:56.573 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-16 20:36:37.228 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-16 20:36:37.812 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-16 20:36:38.943 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-16 20:36:39.164 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-16 20:36:40.157 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-16 20:36:45.247 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-16 20:36:46.028 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-16 20:36:50.895 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-16 20:36:51.658 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-16 20:36:51.675 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-16 20:36:56.372 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-16 20:37:01.515 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-16 20:37:20.812 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 20:37:21.642 [main] Loggerclass - You are on the Linked List page
+[INFO ] 2022-11-16 20:37:22.504 [main] Loggerclass - You are on Introduction page
+[INFO ] 2022-11-16 20:37:24.368 [main] Loggerclass - Introduction page verified successfully
+[INFO ] 2022-11-16 20:37:24.752 [main] Loggerclass - You are on Creating Linked LIst page
+[INFO ] 2022-11-16 20:37:25.715 [main] Loggerclass - Creating Linked LIst page verified successfully
+[INFO ] 2022-11-16 20:37:26.705 [main] Loggerclass - You are on Types of Linked List page
+[INFO ] 2022-11-16 20:37:27.656 [main] Loggerclass - Types of Linked List page verified successfully
+[INFO ] 2022-11-16 20:37:28.607 [main] Loggerclass - You are on Implement Linked List in Python page
+[INFO ] 2022-11-16 20:37:29.569 [main] Loggerclass - Implement Linked List in Python page verified successfully
+[INFO ] 2022-11-16 20:37:30.561 [main] Loggerclass - You are on Traversal page
+[INFO ] 2022-11-16 20:37:31.509 [main] Loggerclass - Traversal page verified successfully
+[INFO ] 2022-11-16 20:37:31.967 [main] Loggerclass - You are on Insertion page
+[INFO ] 2022-11-16 20:37:32.999 [main] Loggerclass - Insertion page verified successfully
+[INFO ] 2022-11-16 20:37:33.973 [main] Loggerclass - You are on Deletion page
+[INFO ] 2022-11-16 20:37:34.935 [main] Loggerclass - Deletion page verified successfully
+[INFO ] 2022-11-16 20:37:40.071 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 20:37:40.817 [main] Loggerclass - You are on the Stack page
+[INFO ] 2022-11-16 20:37:41.750 [main] Loggerclass - You are on Operations in Stack page
+[INFO ] 2022-11-16 20:37:43.559 [main] Loggerclass - Operations in Stack page verified successfully
+[INFO ] 2022-11-16 20:37:44.403 [main] Loggerclass - You are on Implementation page
+[INFO ] 2022-11-16 20:37:45.876 [main] Loggerclass - Implementation page verified successfully
+[INFO ] 2022-11-16 20:37:46.712 [main] Loggerclass - You are on Applications page
+[INFO ] 2022-11-16 20:37:48.196 [main] Loggerclass - Applications page verified successfully
+[INFO ] 2022-11-16 20:37:52.970 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 20:37:53.715 [main] Loggerclass - You are on the Queue page
+[INFO ] 2022-11-16 20:37:54.462 [main] Loggerclass - You are on Implementation using collections.deque page
+[INFO ] 2022-11-16 20:37:55.827 [main] Loggerclass - Implementation using collections.deque page verified successfully
+[INFO ] 2022-11-16 20:37:56.659 [main] Loggerclass - You are on Implementation of Queue in Python page
+[INFO ] 2022-11-16 20:37:57.632 [main] Loggerclass - Implementation of Queue in Python page verified successfully
+[INFO ] 2022-11-16 20:37:58.455 [main] Loggerclass - You are on Implementation using array page
+[INFO ] 2022-11-16 20:37:59.407 [main] Loggerclass - Implementation using array page verified successfully
+[INFO ] 2022-11-16 20:38:00.227 [main] Loggerclass - You are on Queue Operations page
+[INFO ] 2022-11-16 20:38:01.170 [main] Loggerclass - Queue Operations page verified successfully
+[INFO ] 2022-11-16 20:38:10.874 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 20:38:11.686 [main] Loggerclass - You are on the Tree page
+[INFO ] 2022-11-16 20:38:12.063 [main] Loggerclass - You are on Overview of Trees page
+[INFO ] 2022-11-16 20:38:13.450 [main] Loggerclass - Overview of Trees page verified successfully
+[INFO ] 2022-11-16 20:38:14.300 [main] Loggerclass - You are on Terminologies page
+[INFO ] 2022-11-16 20:38:15.259 [main] Loggerclass - Terminologies page verified successfully
+[INFO ] 2022-11-16 20:38:16.149 [main] Loggerclass - You are on Types of Trees page
+[INFO ] 2022-11-16 20:38:17.096 [main] Loggerclass - Types of Trees page verified successfully
+[INFO ] 2022-11-16 20:38:18.049 [main] Loggerclass - You are on Tree Traversals page
+[INFO ] 2022-11-16 20:38:19.075 [main] Loggerclass - Tree Traversals page verified successfully
+[INFO ] 2022-11-16 20:38:20.028 [main] Loggerclass - You are on Traversals-Illustration page
+[INFO ] 2022-11-16 20:38:21.002 [main] Loggerclass - Traversals-Illustration page verified successfully
+[INFO ] 2022-11-16 20:38:22.013 [main] Loggerclass - You are on Binary Trees page
+[INFO ] 2022-11-16 20:38:22.962 [main] Loggerclass - Binary Trees page verified successfully
+[INFO ] 2022-11-16 20:38:24.029 [main] Loggerclass - You are on Types of Binary Trees page
+[INFO ] 2022-11-16 20:38:24.990 [main] Loggerclass - Types of Binary Trees page verified successfully
+[INFO ] 2022-11-16 20:38:25.894 [main] Loggerclass - You are on Implementation in Python page
+[INFO ] 2022-11-16 20:38:26.860 [main] Loggerclass - Implementation in Python page verified successfully
+[INFO ] 2022-11-16 20:38:27.825 [main] Loggerclass - You are on Binary Tree Traversals page
+[INFO ] 2022-11-16 20:38:28.839 [main] Loggerclass - Binary Tree Traversals page verified successfully
+[INFO ] 2022-11-16 20:38:29.744 [main] Loggerclass - You are on Implementation of Binary Trees page
+[INFO ] 2022-11-16 20:38:30.713 [main] Loggerclass - Implementation of Binary Trees page verified successfully
+[INFO ] 2022-11-16 20:38:31.613 [main] Loggerclass - You are on Applications of Binary trees page
+[INFO ] 2022-11-16 20:38:32.560 [main] Loggerclass - Applications of Binary trees page verified successfully
+[INFO ] 2022-11-16 20:38:33.692 [main] Loggerclass - You are on Binary Search Trees page
+[INFO ] 2022-11-16 20:38:34.654 [main] Loggerclass - Binary Search Trees page verified successfully
+[INFO ] 2022-11-16 20:38:35.545 [main] Loggerclass - You are on Implementation Of BST page
+[INFO ] 2022-11-16 20:38:36.509 [main] Loggerclass - Implementation Of BST page verified successfully
+[INFO ] 2022-11-16 20:38:36.784 [main] Loggerclass - I am logging off from NumpyNinja
+[INFO ] 2022-11-16 20:38:42.188 [main] Loggerclass - You are on the Graph page
+[INFO ] 2022-11-16 20:38:42.963 [main] Loggerclass - You are on Graph page
+[INFO ] 2022-11-16 20:38:44.311 [main] Loggerclass - Graph verified successfully
+[INFO ] 2022-11-16 20:38:45.285 [main] Loggerclass - You are on Graph Representations page
+[INFO ] 2022-11-16 20:38:46.261 [main] Loggerclass - Graph Representations verified successfully
+[INFO ] 2022-11-16 20:50:03.255 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-16 20:50:51.905 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-16 20:50:52.527 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-16 20:50:53.647 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-16 20:50:53.975 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-16 20:50:54.957 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-16 20:51:00.465 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-16 20:51:01.305 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-16 20:51:06.400 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-16 20:51:07.215 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-16 20:51:07.235 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-16 20:51:12.345 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-16 20:51:17.815 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-16 20:51:40.525 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 20:51:41.436 [main] Loggerclass - You are on the Linked List page
+[INFO ] 2022-11-16 20:51:42.435 [main] Loggerclass - You are on Introduction page
+[INFO ] 2022-11-16 20:51:44.567 [main] Loggerclass - Introduction page verified successfully
+[INFO ] 2022-11-16 20:51:45.126 [main] Loggerclass - You are on Creating Linked LIst page
+[INFO ] 2022-11-16 20:51:46.335 [main] Loggerclass - Creating Linked LIst page verified successfully
+[INFO ] 2022-11-16 20:51:47.475 [main] Loggerclass - You are on Types of Linked List page
+[INFO ] 2022-11-16 20:51:48.625 [main] Loggerclass - Types of Linked List page verified successfully
+[INFO ] 2022-11-16 20:51:49.735 [main] Loggerclass - You are on Implement Linked List in Python page
+[INFO ] 2022-11-16 20:51:50.885 [main] Loggerclass - Implement Linked List in Python page verified successfully
+[INFO ] 2022-11-16 20:51:51.967 [main] Loggerclass - You are on Traversal page
+[INFO ] 2022-11-16 20:51:53.157 [main] Loggerclass - Traversal page verified successfully
+[INFO ] 2022-11-16 20:51:53.735 [main] Loggerclass - You are on Insertion page
+[INFO ] 2022-11-16 20:51:54.905 [main] Loggerclass - Insertion page verified successfully
+[INFO ] 2022-11-16 20:51:55.950 [main] Loggerclass - You are on Deletion page
+[INFO ] 2022-11-16 20:51:57.155 [main] Loggerclass - Deletion page verified successfully
+[INFO ] 2022-11-16 20:52:03.895 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 20:52:04.745 [main] Loggerclass - You are on the Stack page
+[INFO ] 2022-11-16 20:52:05.645 [main] Loggerclass - You are on Operations in Stack page
+[INFO ] 2022-11-16 20:52:08.546 [main] Loggerclass - Operations in Stack page verified successfully
+[INFO ] 2022-11-16 20:52:09.575 [main] Loggerclass - You are on Implementation page
+[INFO ] 2022-11-16 20:52:11.285 [main] Loggerclass - Implementation page verified successfully
+[INFO ] 2022-11-16 20:52:12.287 [main] Loggerclass - You are on Applications page
+[INFO ] 2022-11-16 20:52:13.906 [main] Loggerclass - Applications page verified successfully
+[INFO ] 2022-11-16 20:52:20.930 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 20:52:21.810 [main] Loggerclass - You are on the Queue page
+[INFO ] 2022-11-16 20:52:22.651 [main] Loggerclass - You are on Implementation using collections.deque page
+[INFO ] 2022-11-16 20:52:24.174 [main] Loggerclass - Implementation using collections.deque page verified successfully
+[INFO ] 2022-11-16 20:52:25.121 [main] Loggerclass - You are on Implementation of Queue in Python page
+[INFO ] 2022-11-16 20:52:26.306 [main] Loggerclass - Implementation of Queue in Python page verified successfully
+[INFO ] 2022-11-16 20:52:27.286 [main] Loggerclass - You are on Implementation using array page
+[INFO ] 2022-11-16 20:52:28.465 [main] Loggerclass - Implementation using array page verified successfully
+[INFO ] 2022-11-16 20:52:29.455 [main] Loggerclass - You are on Queue Operations page
+[INFO ] 2022-11-16 20:52:30.622 [main] Loggerclass - Queue Operations page verified successfully
+[INFO ] 2022-11-16 20:52:37.464 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-16 20:52:38.323 [main] Loggerclass - You are on the Tree page
+[INFO ] 2022-11-16 20:52:38.727 [main] Loggerclass - You are on Overview of Trees page
+[INFO ] 2022-11-16 20:52:40.265 [main] Loggerclass - Overview of Trees page verified successfully
+[INFO ] 2022-11-16 20:52:41.293 [main] Loggerclass - You are on Terminologies page
+[INFO ] 2022-11-16 20:52:42.409 [main] Loggerclass - Terminologies page verified successfully
+[INFO ] 2022-11-16 20:52:43.406 [main] Loggerclass - You are on Types of Trees page
+[INFO ] 2022-11-16 20:52:44.535 [main] Loggerclass - Types of Trees page verified successfully
+[INFO ] 2022-11-16 20:52:45.628 [main] Loggerclass - You are on Tree Traversals page
+[INFO ] 2022-11-16 20:52:46.756 [main] Loggerclass - Tree Traversals page verified successfully
+[INFO ] 2022-11-16 20:52:47.845 [main] Loggerclass - You are on Traversals-Illustration page
+[INFO ] 2022-11-16 20:52:49.046 [main] Loggerclass - Traversals-Illustration page verified successfully
+[INFO ] 2022-11-16 20:52:50.165 [main] Loggerclass - You are on Binary Trees page
+[INFO ] 2022-11-16 20:52:51.369 [main] Loggerclass - Binary Trees page verified successfully
+[INFO ] 2022-11-16 20:52:52.535 [main] Loggerclass - You are on Types of Binary Trees page
+[INFO ] 2022-11-16 20:52:53.700 [main] Loggerclass - Types of Binary Trees page verified successfully
+[INFO ] 2022-11-16 20:52:54.837 [main] Loggerclass - You are on Implementation in Python page
+[INFO ] 2022-11-16 20:52:55.991 [main] Loggerclass - Implementation in Python page verified successfully
+[INFO ] 2022-11-16 20:52:57.145 [main] Loggerclass - You are on Binary Tree Traversals page
+[INFO ] 2022-11-16 20:52:58.291 [main] Loggerclass - Binary Tree Traversals page verified successfully
+[INFO ] 2022-11-16 20:52:59.345 [main] Loggerclass - You are on Implementation of Binary Trees page
+[INFO ] 2022-11-16 20:53:00.515 [main] Loggerclass - Implementation of Binary Trees page verified successfully
+[INFO ] 2022-11-16 20:53:01.558 [main] Loggerclass - You are on Applications of Binary trees page
+[INFO ] 2022-11-16 20:53:02.726 [main] Loggerclass - Applications of Binary trees page verified successfully
+[INFO ] 2022-11-16 20:53:03.895 [main] Loggerclass - You are on Binary Search Trees page
+[INFO ] 2022-11-16 20:53:05.062 [main] Loggerclass - Binary Search Trees page verified successfully
+[INFO ] 2022-11-16 20:53:06.069 [main] Loggerclass - You are on Implementation Of BST page
+[INFO ] 2022-11-16 20:53:07.213 [main] Loggerclass - Implementation Of BST page verified successfully
+[INFO ] 2022-11-16 20:53:07.600 [main] Loggerclass - I am logging off from NumpyNinja
+[INFO ] 2022-11-16 20:53:14.685 [main] Loggerclass - You are on the Graph page
+[INFO ] 2022-11-16 20:53:15.810 [main] Loggerclass - You are on Graph page
+[INFO ] 2022-11-16 20:53:18.028 [main] Loggerclass - Graph verified successfully
+[INFO ] 2022-11-16 20:53:19.685 [main] Loggerclass - You are on Graph Representations page
+[INFO ] 2022-11-16 20:53:20.803 [main] Loggerclass - Graph Representations verified successfully
+[INFO ] 2022-11-21 15:23:14.664 [main] Loggerclass -  user clicked on registration without filling username
+[INFO ] 2022-11-21 15:23:54.677 [main] Loggerclass -  user provided valid username
+[INFO ] 2022-11-21 15:23:55.257 [main] Loggerclass -  user provided valid password
+[INFO ] 2022-11-21 15:23:56.345 [main] Loggerclass -  user Signed in
+[INFO ] 2022-11-21 15:23:56.580 [main] Loggerclass -  user is on Array page
+[INFO ] 2022-11-21 15:23:57.505 [main] Loggerclass -  user is on Array on Python page
+[INFO ] 2022-11-21 15:24:03.412 [main] Loggerclass -  usersucessfully tried Arrays in Python
+[INFO ] 2022-11-21 15:24:04.274 [main] Loggerclass -  user is on Array Using List Page
+[INFO ] 2022-11-21 15:24:08.970 [main] Loggerclass -  user sucessfully tried Arrays Using List
+[INFO ] 2022-11-21 15:24:09.740 [main] Loggerclass -  varified user is onArray Page
+[INFO ] 2022-11-21 15:24:09.751 [main] Loggerclass -  Varified user is on Basic Operation page
+[INFO ] 2022-11-21 15:24:14.468 [main] Loggerclass -  user sucessfully tried Basic Operations in Lists
+[INFO ] 2022-11-21 15:24:19.460 [main] Loggerclass -  user sucessfully tried Applications of Array
+[INFO ] 2022-11-21 15:24:39.045 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-21 15:24:39.858 [main] Loggerclass - You are on the Linked List page
+[INFO ] 2022-11-21 15:24:40.741 [main] Loggerclass - You are on Introduction page
+[INFO ] 2022-11-21 15:24:42.578 [main] Loggerclass - Introduction page verified successfully
+[INFO ] 2022-11-21 15:24:43.016 [main] Loggerclass - You are on Creating Linked LIst page
+[INFO ] 2022-11-21 15:24:43.975 [main] Loggerclass - Creating Linked LIst page verified successfully
+[INFO ] 2022-11-21 15:24:44.982 [main] Loggerclass - You are on Types of Linked List page
+[INFO ] 2022-11-21 15:24:45.931 [main] Loggerclass - Types of Linked List page verified successfully
+[INFO ] 2022-11-21 15:24:46.867 [main] Loggerclass - You are on Implement Linked List in Python page
+[INFO ] 2022-11-21 15:24:47.816 [main] Loggerclass - Implement Linked List in Python page verified successfully
+[INFO ] 2022-11-21 15:24:48.763 [main] Loggerclass - You are on Traversal page
+[INFO ] 2022-11-21 15:24:49.728 [main] Loggerclass - Traversal page verified successfully
+[INFO ] 2022-11-21 15:24:50.199 [main] Loggerclass - You are on Insertion page
+[INFO ] 2022-11-21 15:24:51.149 [main] Loggerclass - Insertion page verified successfully
+[INFO ] 2022-11-21 15:24:52.105 [main] Loggerclass - You are on Deletion page
+[INFO ] 2022-11-21 15:24:53.058 [main] Loggerclass - Deletion page verified successfully
+[INFO ] 2022-11-21 15:24:58.733 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-21 15:24:59.492 [main] Loggerclass - You are on the Stack page
+[INFO ] 2022-11-21 15:25:00.331 [main] Loggerclass - You are on Operations in Stack page
+[INFO ] 2022-11-21 15:25:02.152 [main] Loggerclass - Operations in Stack page verified successfully
+[INFO ] 2022-11-21 15:25:02.998 [main] Loggerclass - You are on Implementation page
+[INFO ] 2022-11-21 15:25:04.456 [main] Loggerclass - Implementation page verified successfully
+[INFO ] 2022-11-21 15:25:05.285 [main] Loggerclass - You are on Applications page
+[INFO ] 2022-11-21 15:25:06.759 [main] Loggerclass - Applications page verified successfully
+[INFO ] 2022-11-21 15:25:11.897 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-21 15:25:12.680 [main] Loggerclass - You are on the Queue page
+[INFO ] 2022-11-21 15:25:13.444 [main] Loggerclass - You are on Implementation using collections.deque page
+[INFO ] 2022-11-21 15:25:15.948 [main] Loggerclass - Implementation using collections.deque page verified successfully
+[INFO ] 2022-11-21 15:25:16.779 [main] Loggerclass - You are on Implementation of Queue in Python page
+[INFO ] 2022-11-21 15:25:17.751 [main] Loggerclass - Implementation of Queue in Python page verified successfully
+[INFO ] 2022-11-21 15:25:18.593 [main] Loggerclass - You are on Implementation using array page
+[INFO ] 2022-11-21 15:25:19.571 [main] Loggerclass - Implementation using array page verified successfully
+[INFO ] 2022-11-21 15:25:20.407 [main] Loggerclass - You are on Queue Operations page
+[INFO ] 2022-11-21 15:25:21.345 [main] Loggerclass - Queue Operations page verified successfully
+[INFO ] 2022-11-21 15:25:26.894 [main] Loggerclass - User logged in successfully
+[INFO ] 2022-11-21 15:25:27.723 [main] Loggerclass - You are on the Tree page
+[INFO ] 2022-11-21 15:25:28.180 [main] Loggerclass - You are on Overview of Trees page
+[INFO ] 2022-11-21 15:25:30.220 [main] Loggerclass - Overview of Trees page verified successfully
+[INFO ] 2022-11-21 15:25:31.136 [main] Loggerclass - You are on Terminologies page
+[INFO ] 2022-11-21 15:25:32.413 [main] Loggerclass - Terminologies page verified successfully
+[INFO ] 2022-11-21 15:25:33.449 [main] Loggerclass - You are on Types of Trees page
+[INFO ] 2022-11-21 15:25:34.404 [main] Loggerclass - Types of Trees page verified successfully
+[INFO ] 2022-11-21 15:25:35.579 [main] Loggerclass - You are on Tree Traversals page
+[INFO ] 2022-11-21 15:25:36.527 [main] Loggerclass - Tree Traversals page verified successfully
+[INFO ] 2022-11-21 15:25:37.523 [main] Loggerclass - You are on Traversals-Illustration page
+[INFO ] 2022-11-21 15:25:38.496 [main] Loggerclass - Traversals-Illustration page verified successfully
+[INFO ] 2022-11-21 15:25:39.553 [main] Loggerclass - You are on Binary Trees page
+[INFO ] 2022-11-21 15:25:40.520 [main] Loggerclass - Binary Trees page verified successfully
+[INFO ] 2022-11-21 15:25:41.623 [main] Loggerclass - You are on Types of Binary Trees page
+[INFO ] 2022-11-21 15:25:42.574 [main] Loggerclass - Types of Binary Trees page verified successfully
+[INFO ] 2022-11-21 15:25:43.505 [main] Loggerclass - You are on Implementation in Python page
+[INFO ] 2022-11-21 15:25:44.498 [main] Loggerclass - Implementation in Python page verified successfully
+[INFO ] 2022-11-21 15:25:45.485 [main] Loggerclass - You are on Binary Tree Traversals page
+[INFO ] 2022-11-21 15:25:46.430 [main] Loggerclass - Binary Tree Traversals page verified successfully
+[INFO ] 2022-11-21 15:25:47.384 [main] Loggerclass - You are on Implementation of Binary Trees page
+[INFO ] 2022-11-21 15:25:48.337 [main] Loggerclass - Implementation of Binary Trees page verified successfully
+[INFO ] 2022-11-21 15:25:49.255 [main] Loggerclass - You are on Applications of Binary trees page
+[INFO ] 2022-11-21 15:25:50.207 [main] Loggerclass - Applications of Binary trees page verified successfully
+[INFO ] 2022-11-21 15:25:51.325 [main] Loggerclass - You are on Binary Search Trees page
+[INFO ] 2022-11-21 15:25:52.305 [main] Loggerclass - Binary Search Trees page verified successfully
+[INFO ] 2022-11-21 15:25:53.205 [main] Loggerclass - You are on Implementation Of BST page
+[INFO ] 2022-11-21 15:25:54.188 [main] Loggerclass - Implementation Of BST page verified successfully
+[INFO ] 2022-11-21 15:25:54.487 [main] Loggerclass - I am logging off from NumpyNinja
+[INFO ] 2022-11-21 15:26:00.306 [main] Loggerclass - You are on the Graph page
+[INFO ] 2022-11-21 15:26:01.080 [main] Loggerclass - You are on Graph page
+[INFO ] 2022-11-21 15:26:02.475 [main] Loggerclass - Graph verified successfully
+[INFO ] 2022-11-21 15:26:03.462 [main] Loggerclass - You are on Graph Representations page
+[INFO ] 2022-11-21 15:26:04.445 [main] Loggerclass - Graph Representations verified successfully
